@@ -10,5 +10,7 @@ Git Github ücüncü gün ikinci deneme
 MASTER BRANCH YENİ EKLEME
 Git Github ücüncü gün SAMET BRANCH'I ilk deneme
 SAMET BRANCHI 2.EKLEME
+MASTER BRANCH İKİNCİ EKLEME
+
 
 
