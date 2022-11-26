@@ -7,5 +7,6 @@ Git Github ikinci gün MASTER BRANCH'I deneme
 Git Github ikinci gün SAMET BRANCH'I deneme üç
 Git Github ücüncü gün ilk deneme
 Git Github ücüncü gün ikinci deneme
+Git Github ücüncü gün SAMET BRANCH'I ilk deneme
 
 
